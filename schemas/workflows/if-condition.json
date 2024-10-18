@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/Pooyash1998/cacao-json-schemas-modified/main/schemas/workflows/if-condition.json",
+  "$id": "https://raw.githubusercontent.com/Pooyash1998/cacao-json-schemas-modified/refs/heads/main/schemas/workflows/if-condition.json",
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "if-condition",
   "description": "The if condition step workflow step defines the 'if-then-else' conditional logic that can be used within the workflow of the playbook. In addition to the inherited properties, this section defines the following additional properties that are valid for this type.",
